@@ -22,7 +22,7 @@ This 3-column preview card component challenge solution presented here showcases
 
 ### Links
 
-- Solution URL: [https://github.com/itzvikashgupta/three-column-card]
+- Solution URL: [https://github.com/itzvikashgupta/3-column-preview-card-component]
 - Live Site URL: [https://three-column-card-soln.netlify.app/]
 
 ## My Process
